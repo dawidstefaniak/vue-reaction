@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "decimal.js": "^10.2.0",
     "math-random": "^1.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "statman-stopwatch": "^2.8.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
